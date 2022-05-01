@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">Componentes Basicos</string>
+    <!-- TextView -->
+    <string name="tvNome">Nome:</string>
+    <string name="tvSexo">Sexo:</string>
+    <string name="tvSexualidade">Sexualidade:</string>
+    <string name="tvEstado">Estado:</string>
+    <string name="tvGrid">GridView</string>
+
+    <!-- RadioButton -->
+    <string name="rbMasculino">Masculino</string>
+    <string name="rbFeminino">Feminino</string>
+
+    <!-- ToggleButton -->
+    <string name="tbListaOn">Esconder lista</string>
+    <string name="tbListaOff">Ver lista</string>
+
+    <!-- MenuItem -->
+    <string name="item1">Batman wallpaper</string>
+    <string name="item2">Superman wallpaper</string>
+    <string name="item3">Vegeta wallpaper</string>
+    <string name="item4">Voltar ao padrão</string>
+
+    <!-- Hint -->
+    <string name="hNome">Digite seu nome aqui</string>
+    <string name="hEstado">Digite seu estado</string>
+    <string name="btnCadastro">Cadastrar</string>
+
+    <!-- String-arrays -->
+    <string-array name="servicos">
+        <item>Itens de uma lista</item>
+        <item>Outro item</item>
+        <item>Item final</item>
+    </string-array>
+
+    <string-array name="listSexualidade">
+        <item>Heterosexual</item>
+        <item>Homosexual</item>
+        <item>Bisexual</item>
+        <item>Pansexual</item>
+        <item>Assexual</item>
+    </string-array>
+
+    <string-array name="listEstados">
+        <item>Acre</item>
+        <item>Alagoas</item>
+        <item>Amapá</item>
+        <item>Amazonas</item>
+        <item>Bahia</item>
+        <item>Ceará</item>
+        <item>Espírito Santo</item>
+        <item>Goiás</item>
+        <item>Maranhão</item>
+        <item>Mato Grosso</item>
+        <item>Mato Grosso do Sul</item>
+        <item>Minas Gerais></item>
+        <item>Pará</item>
+        <item>Paraíba</item>
+        <item>Paraná</item>
+        <item>Pernambuco</item>
+        <item>Piauí</item>
+        <item>Rio de Janeiro</item>
+        <item>Rio Grande do Norte</item>
+        <item>Rio Grande do Sul</item>
+        <item>Rondônia</item>
+        <item>Roraima</item>
+        <item>Santa Catarina</item>
+        <item>São Paulo</item>
+        <item>Sergipe</item>
+        <item>Tocantins</item>
+    </string-array>
+</resources>
